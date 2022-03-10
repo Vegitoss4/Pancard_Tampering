@@ -3,5 +3,4 @@ imutils==0.5.3
 Keras==2.4.0
 opencv-python==4.4.0.46
 Pillow
-tensorflow
 scikit-image
